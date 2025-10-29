@@ -94,3 +94,6 @@ python main.py -c
 |matplotlib|	3.8.4|	数据可视化|
 |ruamel.yaml|	0.18.6|	配置文件解析|
 |certifi|	2025.10.10|	CA 证书管理|
+
+五、运行结果<img width="2880" height="1704" alt="c3ca8c5e7bba568b81696f6c41a0bee3" src="https://github.com/user-attachments/assets/97c620cc-3eb9-450f-bbf7-315fa2abfc14" />
+
